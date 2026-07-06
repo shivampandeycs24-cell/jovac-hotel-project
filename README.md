@@ -1,16 +1,39 @@
-# React + Vite
+# StayFinder - Hotel Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+StayFinder is a responsive hotel discovery web application developed using React and Vite. The application allows users to explore hotels, search hotels by name or location, filter hotels based on ratings, and sort hotels by price or rating.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Search hotels by name or location
+- Filter hotels based on ratings
+- Sort hotels by price
+- Sort hotels by rating
+- View detailed information about hotels
+- View hotel images
+- Responsive user interface
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-## Expanding the ESLint configuration
+## How to Run the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository.
+2. Open the project folder.
+3. Run `npm install` to install the required dependencies.
+4. Run `npm run dev` to start the development server.
+5. Open the localhost URL in the browser.
+
+## Developer
+
+Shivam Pandey  
+B.Tech Computer Science Engineering  
+GLA University
+
+## About the Project
+
+This project was developed as part of the JOVAC project. The main purpose of this project is to implement React concepts such as components, state management, filtering, sorting, and responsive web design.
